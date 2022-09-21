@@ -5,9 +5,13 @@
 
 # FOLLOW THIS GUIDE TO GET OLD CHROME UI BACK ON CHROME-71
 Open browser
+
 type in searchbar : chrome://flags
+
 then search in the flags tab : UI Layout
+
 Select the dropdown and Select Normal
+
 After doing so, press relaunch! Now you have the old UI!
 
 
