@@ -1,5 +1,6 @@
 # old-chrome68
 # WARNING, THIS IS A LITTLE BROKEN BUT IS USABLE.
+# EXTRACT ALL OF THE RAR FILES INTO ONE FOLDER TO USE!
 This is the official repository for old-chrome68. This is currently only avaliable on Windows 10!
 Please only use this browser on Windows 10 21H2 as not doing so can impose security risk. 
 
