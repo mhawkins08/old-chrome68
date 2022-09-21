@@ -10,6 +10,8 @@ Select the dropdown and Select Normal
 After doing so, press relaunch! Now you have the old UI!
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 This is the official repository for old-chrome68. This is currently only avaliable on Windows 10!
 Please only use this browser on Windows 10 21H2 as not doing so can impose security risk. 
